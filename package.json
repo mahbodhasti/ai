@@ -1,0 +1,19 @@
+{
+  "name": "project_openai_codex",
+  "version": "1.0.0",
+  "description": "![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianhajdin/project_openai_codex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianhajdin/project_openai_codex/issues"
+  },
+  "homepage": "https://github.com/adrianhajdin/project_openai_codex#readme"
+}
